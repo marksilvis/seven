@@ -30,7 +30,7 @@ module ActsAsCsv
         end
 
         def each &block
-            @csv_contents.each &block 
+            @csv_contents.each &block
         end
     end
 
@@ -59,3 +59,4 @@ m = RubyCsv.new
 puts m.headers.inspect
 puts m.csv_contents.inspect
 m.each {|row| puts row.one}
+
