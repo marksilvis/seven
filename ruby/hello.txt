@@ -1,0 +1,8 @@
+hello, world
+goodbye, sea
+welcome, sky
+au revoir, earth
+
+hello, is it me you're looking for?
+hello, yes, it is me.
+goodbye, i'm done with this file.
